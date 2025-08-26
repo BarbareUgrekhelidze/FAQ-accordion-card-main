@@ -36,4 +36,4 @@ Users should be able to:
 ## Author
 
 - Website - [FAQ Accordion](https://BarbareUgrekhelidze.github.io/FAQ-accordion-card-main/)
-- Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
